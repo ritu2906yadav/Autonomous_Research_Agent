@@ -127,7 +127,8 @@ TAVILY_API_KEY=your_api_key
 Add screenshots or GIFs here.
 
 ```md
-![Demo](images/demo.png)
+Screenshots/Screenshot1.png
+screenshots/Screenshot 2.png
 ```
 
 ---
